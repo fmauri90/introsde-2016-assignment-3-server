@@ -22,7 +22,7 @@ git clone https://github.com/fmauri90/introsde-2016-assignment-3-server```
 and run the following command:
 ```
 ant install
-```
+
 ### Getting Started
 To run the server locally then run:
 ```
