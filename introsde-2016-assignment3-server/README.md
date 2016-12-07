@@ -4,8 +4,8 @@
 
 # Sever
 
-URL of my server: [https://secure-refuge-6052.herokuapp.com/](https://secure-refuge-6052.herokuapp.com/)  
-Client repository: [https://github.com/abonte/introsde-2016-assignment-3-client](https://github.com/abonte/introsde-2015-assignment-3-client)  
+URL of my server: []()  
+Client repository: [https://github.com/fmauri90/introsde-2016-assignment-3-client](https://github.com/fmauri90/introsde-2016-assignment-3-client)  
 I worked alone
 
 ### Install
@@ -17,8 +17,7 @@ In order to execute this server locally you need the following technologies (in 
 Then, clone the repository. Run in your terminal:
 
 ```
-git clone https://github.com/abonte/introsde-2015-assignment-3-server && cd introsde-2015-assignment-3-server
-```
+git clone https://github.com/fmauri90/introsde-2016-assignment-3-server```
 
 and run the following command:
 ```
