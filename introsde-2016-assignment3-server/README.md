@@ -29,8 +29,8 @@ To run the server locally then run:
 ant start
 ```
 ### Code
-**packages:**  
-*[src/introsde/assignment/soap/dao](src/introsde/assignment/soap/dao)*: contains the data access object; 
-*[src/introsde/assignment/soap/model](src/introsde/assignment/soap/model)*: contains the definition of *Person*, *HealthMeasureHistory*;  
-*[src/introsde/assignment/soap/endpoint](src/introsde/assignment/soap/endpoint)*: stand alone server;  
-*[src/introsde/assignment/soap/ws](src/introsde/assignment/soap/ws)*: SOAP web service;  
+packages:  
+[src/introsde/assignment/soap/dao](src/introsde/assignment/soap/dao)*: contains the data access object; 
+[src/introsde/assignment/soap/model](src/introsde/assignment/soap/model)*: contains the definition of *Person*, *HealthMeasureHistory*;  
+[src/introsde/assignment/soap/endpoint](src/introsde/assignment/soap/endpoint)*: stand alone server;  
+[src/introsde/assignment/soap/ws](src/introsde/assignment/soap/ws)*: SOAP web service;  
